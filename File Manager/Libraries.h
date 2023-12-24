@@ -1,0 +1,9 @@
+﻿#pragma once
+#include <iostream>
+#include <Windows.h>
+#include <filesystem>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <locale>
+#include <codecvt>
